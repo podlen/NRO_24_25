@@ -4,6 +4,6 @@ print(np.pi ** 2)
 
 if random.randint(0,9) > 2;
 	print ("smrad") 
-
+neki neki neki
 
 
