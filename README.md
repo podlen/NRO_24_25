@@ -1,2 +1,2 @@
-# NRO_24_25
-NRO repo
+Enej Podlipnik
+23221334
